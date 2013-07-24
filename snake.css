@@ -1,0 +1,39 @@
+body{
+  background-color: rgb(237, 237, 237)
+}
+
+#title{
+  font-family: 'Scada', sans-serif;
+  text-align: center;
+  font-size: 36px;
+  padding-top: 20px;
+}
+
+.game{
+  float: left;
+  width: 20px;
+  height: 20px;
+  background-color: #71E3A6;
+  border: 1px solid #EEEEEE;
+}
+
+#container{
+  display: block;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.snake {
+  background-color: #FFFFFF;
+}
+
+.apple{
+  background-color: #B52828;
+}
+
+#scorer{
+  font-family: 'Scada', sans-serif;
+  text-align: center;
+  font-size: 36px;
+  padding-top: 20px;
+}
